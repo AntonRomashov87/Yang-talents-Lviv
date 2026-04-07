@@ -1,6 +1,6 @@
 // Таймер відліку
 function countdownTimer() {
-  const eventDate = new Date("Dec 14, 2025 09:15:00").getTime();
+  const eventDate = new Date("Apr 26, 2026 09:15:00").getTime();
   const now = new Date().getTime();
   const distance = eventDate - now;
 
